@@ -1,3 +1,4 @@
+![GPT3_Ilia_Chistov](https://user-images.githubusercontent.com/54239955/225814137-bab11e2c-3737-44c0-a8cf-f2a9788b1938.PNG)
 # Modern Web Design of GPT3 Website
 
 # Figma Prototype
