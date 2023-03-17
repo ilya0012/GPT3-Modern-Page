@@ -1,6 +1,6 @@
 # Modern Web Design of GPT3 Website
 
-#№ Figma Prototype
+# Figma Prototype
 
 ## https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0-15&t=HE0F5H6mubNgHCkC-0
 
